@@ -39,7 +39,7 @@ const UserListComponent = () => {
     thisRef.current.addEventListener("scroll", (e) => {
       if (
         thisRef.current.scrollTop + thisRef.current.clientHeight >=
-        thisRef.current.scrollHeight - 20
+        thisRef.current.scrollHeight - 20 && items <= userData.length
       ) {
         loadMore();
       }
