@@ -15,7 +15,7 @@ const UserInfoCard = ({userInfo}) => (
     </div>
     <div className="user-info">
       <h5>{userInfo.first_name + " " + userInfo.last_name}</h5>
-      <p className="accent-text">{userInfo.dob}</p>
+      <p className="accent-text">DOB: {userInfo.dob || "Not Available"}</p>
       <p className="accent-text">{userInfo.city}</p>
     </div>
   </div>
