@@ -1,4 +1,4 @@
-# DYnamic User List
+# Dynamic User List
 
 Exercise goal:
 This exercise is designed to gain an insight into the coding style and depth of knowledge of the
