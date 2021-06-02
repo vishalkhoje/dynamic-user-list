@@ -1,4 +1,4 @@
-# dynamic-user-list
+# DYnamic User List
 
 Exercise goal:
 This exercise is designed to gain an insight into the coding style and depth of knowledge of the
@@ -96,3 +96,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Live Demo
+Dynamic User List: [https://vishalkhoje.github.io/dynamic-user-list/] (https://vishalkhoje.github.io/dynamic-user-list/)
